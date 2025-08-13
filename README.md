@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Arturo Grottoli 👋
 
-<!--
-**Arturogrottoli/Arturogrottoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Portfolio / CV](https://arturogrottoli.vercel.app/)
 
-Here are some ideas to get you started:
+💻 **Full Stack Developer**  
+Desarrollador web especializado en crear aplicaciones completas y escalables.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Data Analyst**  
+Experiencia en análisis y procesamiento de grandes volúmenes de información usando SQL y Python.  
+
+👨‍🏫 **Docente**  
+Instructor y tutor en cursos de desarrollo web, JavaScript, React.js, Data Science y SQL.  
+
+📡 **Profesional de las telecomunicaciones**  
+Gestión de proyectos 3G y 4G, optimización de redes y coordinación de equipos multidisciplinarios con clientes como Ericsson, Nokia y Huawei.  
+
+---
+
+## 🏆 Trayectoria profesional
+- **Emonk (2022-actual)** - E-commerce admin, full stack developer.  
+- **Freelance (2020-actual)** - Desarrollo de sitios web personalizados.  
+- **Liramatic (2021-actual)** - Reportes para flotas vehiculares con Power BI.  
+- **Codo a Codo (2021-2024)** - Profesor Full Stack Python.  
+- **Coderhouse (2021-actual)** - Tutor en Desarrollo Web, JS, React y SQL.
+- **Boot Argentina SA (2014-2020)** - Gestión de proyectos 3G y 4G. Project Manager.
