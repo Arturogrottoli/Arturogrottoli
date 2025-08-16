@@ -6,12 +6,12 @@
 Desarrollador web especializado en crear aplicaciones completas y escalables.  
 
 📊 **Data Analyst**  
-Experiencia en análisis y procesamiento de grandes volúmenes de información usando SQL y Python.  
+Experiencia en análisis y procesamiento de grandes volúmenes de información usando Power Bi,SQL y Python.  
 
 👨‍🏫 **Docente**  
 Instructor y tutor en cursos de desarrollo web, JavaScript, React.js, Data Science y SQL.  
 
-📡 **Profesional de las telecomunicaciones**  
+📡 **Profesional de las telecomunicaciones/Project Manager**  
 Gestión de proyectos 3G y 4G, optimización de redes y coordinación de equipos multidisciplinarios con clientes como Ericsson, Nokia y Huawei.  
 
 ---
