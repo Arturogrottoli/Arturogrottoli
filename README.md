@@ -3,7 +3,7 @@
 [Portfolio / CV](https://arturogrottoli.vercel.app/)
 
 💻 **Full Stack Developer**  
-Desarrollador web especializado en crear aplicaciones completas y escalables.  
+Desarrollador web especializado en crear sitios web asi como tambien aplicaciones completas y escalables.  
 
 📊 **Data Analyst**  
 Experiencia en análisis y procesamiento de grandes volúmenes de información usando Power Bi,SQL y Python.  
