@@ -19,9 +19,9 @@ Gestión de proyectos 3G y 4G, optimización de redes y coordinación de equipos
 ## 🏆 Trayectoria profesional
 - **Emonk (2022-actual)** - E-commerce admin, full stack developer.  
 - **Freelance (2020-actual)** - Desarrollo de sitios web personalizados.  
-- **Liramatic (2021-actual)** - Reportes para flotas vehiculares con Power BI.  
+- **Liramatic (2021-actual)** - Analista de datos, creacion de reportes para flotas vehiculares con Power BI.  
 - **Codo a Codo (2021-2024)** - Profesor Full Stack Python.  
-- **Coderhouse (2021-actual)** - Tutor en Desarrollo Web, JS, React, Data Science y SQL.
+- **Coderhouse (2021-actual)** - Tutor en Desarrollo Web, JS, ReactJS, Data Science y SQL.
 - **Boot Argentina SA (2014-2020)** - Gestión de proyectos 3G y 4G. Project Manager.
 
 ## 📫 Contacto
