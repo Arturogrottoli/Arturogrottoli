@@ -13,7 +13,7 @@ Instructor y tutor adjunto en cursos de desarrollo web, JavaScript, React.js, Da
 
 📡 **Profesional de las telecomunicaciones/Project Manager**  
 Gestión de proyectos 3G y 4G, optimización de redes y coordinación de equipos multidisciplinarios con clientes como Ericsson, Nokia y Huawei.  
-Coordinacion de grupos de trabajos y cuadrillas. Planificacion y ejecucion de proyectos.
+Coordinacion de grupos de trabajos y cuadrillas. Planificacion y ejecución de proyectos.
 
 --
 
