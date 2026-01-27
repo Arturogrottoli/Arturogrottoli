@@ -1,6 +1,6 @@
 # ¡Hola! Soy Arturo Grottoli 👋
 
-[Portfolio / CV](https://arturogrottoli.vercel.app/)
+[Portfolio / CV](https://arturogrottoli.com/)
 
 💻 **Full Stack Developer**  
 Desarrollador web especializado en crear sitios web asi como tambien aplicaciones completas y escalables.  
