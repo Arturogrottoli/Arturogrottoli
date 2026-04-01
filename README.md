@@ -1,30 +1,27 @@
-# ¡Hola! Soy Arturo Grottoli 👋
+# Arturo Grottoli
 
-[Portfolio / CV](https://arturogrottoli.com/)
+[Portfolio](https://arturogrottoli.com/) · [LinkedIn](https://www.linkedin.com/in/arturo-grottoli/) · [Email](mailto:arturogrottoli@gmail.com)
 
-💻 **Full Stack Developer**  
-Desarrollador web especializado en crear sitios web asi como tambien aplicaciones completas y escalables.  
+Full-Stack Developer desde 2021, especializado en PHP, JavaScript, React y Python. Docente en CoderHouse y Codo a Codo. Anteriormente Project Manager en proyectos de telecomunicaciones.
 
-📊 **Data Analyst**  
-Experiencia en análisis y procesamiento de grandes volúmenes de información usando Power Bi,SQL y Python.  
+## Stack
 
-👨‍🏫 **Docente**  
-Instructor y tutor adjunto en cursos de desarrollo web, JavaScript, React.js, Data Science y SQL.  
+PHP · JavaScript · TypeScript · React · Next.js · Python · Node.js · SQL · Docker · AJAX · REST · Git · Tailwind · Bootstrap · Django · Angular
 
-📡 **Profesional de las telecomunicaciones/Project Manager**  
-Gestión de proyectos 3G y 4G, optimización de redes y coordinación de equipos multidisciplinarios con clientes como Ericsson, Nokia y Huawei.  
-Coordinacion de grupos de trabajos y cuadrillas. Planificacion y ejecución de proyectos.
+## Experiencia
 
---
+- **Emonk (2022-actual)** — Full-Stack Developer. Sistema interno de gestión de comercio exterior, automatización con Slack y Mailchimp, administración de plataforma B2B OroCommerce.
+- **Freelance (2020-actual)** — Desarrollo de sitios y apps a medida: landings, corporativos, e-commerce y apps en React/Next.js.
+- **CoderHouse (2021-actual)** — Tutor en JavaScript, React.js, Data Science, AI automation y SQL.
+- **Codo a Codo (2021-2024)** — Profesor Full Stack Python.
+- **Liramatic (2021-actual)** — Analista de datos, reportes para flotas vehiculares con Power BI.
+- **Boot Argentina / Soto / Liramatic (2014-2022)** — Project Manager en proyectos 3G/4G para Ericsson, Nokia y Huawei.
 
-## 🏆 Trayectoria profesional
-- **Emonk (2022-actual)** - E-commerce admin, full stack developer.  
-- **Freelance (2020-actual)** - Desarrollo de sitios web personalizados.  
-- **Liramatic (2021-actual)** - Analista de datos, creacion de reportes para flotas vehiculares con Power BI.  
-- **Codo a Codo (2021-2024)** - Profesor Full Stack Python.  
-- **Coderhouse (2021-actual)** - Tutor en Desarrollo Web, JS, ReactJS, Data Science y SQL.
-- **Boot Argentina SA (2014-2020)** - Gestión de proyectos 3G y 4G. Project Manager.
+## Proyectos destacados
 
-## 📫 Contacto
-- Email: [arturogrottoli@gmail.com](mailto:arturogrottoli@gmail.com)
-- LinkedIn: [linkedin.com/in/arturo-grottoli](https://www.linkedin.com/in/arturo-grottoli/)
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [Corazón Verde](https://corazonverde.vercel.app/) | Sitio para granja de pollos criados naturalmente | Next.js, Tailwind |
+| [EPUBify](https://turiepubify.vercel.app/) | Convierte PDFs y artículos a EPUB | Next.js, TypeScript |
+| [Setlistfm to Spotify](https://setlistfm-to-spotify.vercel.app/) | Convierte shows en playlists de Spotify | Next.js, PWA |
+| [Movie Points Tracker](https://python-movies.vercel.app/) | Watchlist con puntos y login | Next.js, Python |
