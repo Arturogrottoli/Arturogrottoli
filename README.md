@@ -15,7 +15,7 @@ PHP · JavaScript · TypeScript · React · Next.js · Python · Node.js · SQL 
 - **CoderHouse (2021-actual)** — Tutor en JavaScript, React.js, Data Science, AI automation y SQL.
 - **Codo a Codo (2021-2024)** — Profesor Full Stack Python.
 - **Liramatic (2021-actual)** — Analista de datos, reportes para flotas vehiculares con Power BI.
-- **Boot Argentina / Soto / Liramatic (2014-2022)** — Project Manager en proyectos 3G/4G para Ericsson, Nokia y Huawei.
+- **Boot Argentina / Soto Comunicaciones / Liramatic (2014-2020)** — Project Manager en proyectos 3G/4G para Ericsson, Nokia y Huawei.
 
 ## Proyectos destacados
 
