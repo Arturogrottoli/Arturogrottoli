@@ -23,5 +23,6 @@ PHP · JavaScript · TypeScript · React · Next.js · Python · Node.js · SQL 
 |---|---|---|
 | [Corazón Verde](https://corazonverde.vercel.app/) | Sitio para granja de pollos criados naturalmente | Next.js, Tailwind |
 | [EPUBify](https://turiepubify.vercel.app/) | Convierte PDFs y artículos a EPUB | Next.js, TypeScript |
+| [Dibujantis](https://dibujantis.vercel.app/) | Portfolio de la artista, ilustradora Dibujantis | Next.js, Tailwindn |
 | [Setlistfm to Spotify](https://setlistfm-to-spotify.vercel.app/) | Convierte shows en playlists de Spotify | Next.js, PWA |
-| [Movie Points Tracker](https://python-movies.vercel.app/) | Watchlist con puntos y login | Next.js, Python |
+
