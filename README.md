@@ -27,21 +27,3 @@ PHP · JavaScript · TypeScript · React · Next.js · Python · Node.js · SQL 
 | [Setlistfm to Spotify](https://setlistfm-to-spotify.vercel.app/) | Convierte shows en playlists de Spotify | Next.js, PWA |
 
 
-## Experiencia
-
-- **Emonk (2022-actual)** — Full-Stack Developer. Sistema interno de gestión de comercio exterior, automatización con Slack y Mailchimp, administración de plataforma B2B OroCommerce.
-- **Freelance (2020-actual)** — Desarrollo de sitios y apps a medida: landings, corporativos, e-commerce y apps en React/Next.js.
-- **CoderHouse (2021-actual)** — Tutor en JavaScript, React.js, Data Science, AI automation y SQL.
-- **Codo a Codo (2021-2024)** — Profesor Full Stack Python.
-- **Liramatic (2021-actual)** — Analista de datos, reportes para flotas vehiculares con Power BI.
-- **Boot Argentina / Soto Comunicaciones / Liramatic (2014-2020)** — Project Manager en proyectos 3G/4G para Ericsson, Nokia y Huawei.
-
-## Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [Corazón Verde](https://corazonverde.vercel.app/) | Sitio para granja de pollos criados naturalmente | Next.js, Tailwind |
-| [EPUBify](https://turiepubify.vercel.app/) | Convierte PDFs y artículos a EPUB | Next.js, TypeScript |
-| [Dibujantis](https://dibujantis.vercel.app/) | Portfolio de la artista, ilustradora Dibujantis | Next.js, Tailwindn |
-| [Setlistfm to Spotify](https://setlistfm-to-spotify.vercel.app/) | Convierte shows en playlists de Spotify | Next.js, PWA |
-
