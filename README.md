@@ -6,14 +6,6 @@ Full-Stack Developer desde 2021, especializado en PHP, JavaScript, React y Pytho
 
 ## Stack
 
-PHP · JavaScript · TypeScript · React · Next.js · Python · Node.js · SQL · Docker · AJAX · REST · Git · Tailwind · Bootstrap · Django · Angular# Arturo Grottoli
-
-[Portfolio](https://arturogrottoli.com/) · [LinkedIn](https://www.linkedin.com/in/arturo-grottoli/) · [Email](mailto:arturogrottoli@gmail.com)
-
-Full-Stack Developer desde 2021, especializado en PHP, JavaScript, React y Python. Docente en CoderHouse y Codo a Codo. Anteriormente Project Manager en proyectos de telecomunicaciones.
-
-## Stack
-
 PHP · JavaScript · TypeScript · React · Next.js · Python · Node.js · SQL · Docker · AJAX · REST · Git · Tailwind · Bootstrap · Django · Angular
 
 ## Experiencia
