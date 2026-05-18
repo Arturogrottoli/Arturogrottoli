@@ -10,8 +10,9 @@ PHP · JavaScript · TypeScript · React · Next.js · Python · Node.js · SQL 
 
 ## Experiencia
 
-- **Emonk (2022-actual)** — Full-Stack Developer. Desarrollo sobre plataforma interna de gestión de comercio exterior con 4 módulos (Quotes, Seller, Swift, Logistic), arquitectura multi-repositorio orquestada con Docker y API REST. Features full-stack, mejoras UI/UX, cargas AJAX, filtros dinámicos, exportación CSV e integraciones con Slack, Mailchimp y Odoo. Administración de plataforma B2B OroCommerce: usuarios, permisos, catálogo y CMS. `PHP · JS · SQL · Docker · REST · Git`
-- **Freelance (2020-actual)** — Desarrollo de sitios y apps a medida: landings, corporativos, e-commerce y apps en React/Next.js.
+- **Emonk (2022-actual)** — Full-Stack Developer. Desarrollo sobre plataforma de gestión de comercio exterior compuesta por 4 módulos (Quotes, Seller, Swift y Logistic) en arquitectura multi-repositorio orquestada con Docker y APIs REST. Desarrollo de features full-stack, mejoras UI/UX, cargas AJAX, filtros dinámicos, exportación CSV e integraciones con distintos servicios como Slack, Mailchimp y Odoo. 
+Administración B2B en OroCommerce: usuarios, permisos, catálogo y CMS. PHP · JavaScript · SQL · Docker · REST · Git
+- **Freelance (2020-actual)** — Desarrollo de sitios y apps a medida: landings, corporativos, e-commerce y apps en distintos lenguajes de programacion.
 - **CoderHouse (2021-actual)** — Tutor en JavaScript, React.js, Data Science, AI automation y SQL.
 - **Codo a Codo (2021-2024)** — Profesor Curso Full Stack Python.
 - **Liramatic (2021-actual)** — Analista de datos, reportes para flotas vehiculares con Power BI.
