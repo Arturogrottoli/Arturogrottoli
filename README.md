@@ -10,12 +10,12 @@ PHP · JavaScript · TypeScript · React · Next.js · Python · Node.js · SQL 
 
 ## Experiencia
 
-- **Emonk (2022-actual)** — Full-Stack Developer. Desarrollo sobre plataforma de gestión de comercio exterior compuesta por 4 módulos (Quotes, Seller, Swift y Logistic) en arquitectura multi-repositorio orquestada con Docker y APIs REST. Desarrollo de features full-stack, mejoras UI/UX, cargas AJAX, filtros dinámicos, exportación CSV e integraciones con distintos servicios como Slack, Mailchimp y Odoo. 
+- **Emonk (2022-actual)** — Full-Stack Developer. Desarrollo sobre plataforma interna de comercio exterior compuesta por múltiples módulos conectados mediante APIs REST y entorno Docker. Implementación de funcionalidades full-stack, lógica de negocio, dashboards administrativos, automatizaciones, exportación CSV e integraciones con servicios externos como Slack, Odoo ERP, Mailchimp/Mandrill y AWS SES.
 Administración B2B en OroCommerce: usuarios, permisos, catálogo y CMS. PHP · JavaScript · SQL · Docker · REST · Git
 - **Freelance (2020-actual)** — Desarrollo de sitios y apps a medida: landings, corporativos, e-commerce y apps en distintos lenguajes de programacion.
 - **CoderHouse (2021-actual)** — Tutor en JavaScript, React.js, Data Science, AI automation y SQL.
 - **Codo a Codo (2021-2024)** — Profesor Curso Full Stack Python.
-- **Liramatic (2021-actual)** — Analista de datos, reportes para flotas vehiculares con Power BI.
+- **Liramatic (2021-2026)** — Analista de datos, reportes para flotas vehiculares con Power BI.
 - **Boot Argentina / Soto Comunicaciones / Liramatic (2014-2020)** — Project Manager en proyectos 3G/4G para Ericsson, Nokia y Huawei.
 
 ## Proyectos destacados
